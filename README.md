@@ -1,7 +1,7 @@
 # Unity-Shooter
 |Tool         |Version    |
 |-------------|-----------|
-|Unity        |2020.1.17f1|
+|Unity        |2020.3.0f1 |
 |Visual Studio|2019       |
 
 ![alt text](Images/2.png)
